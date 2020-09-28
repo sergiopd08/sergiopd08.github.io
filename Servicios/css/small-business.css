@@ -1,0 +1,22 @@
+/*!
+* Start Bootstrap - Small Business (https://startbootstrap.com/templates/small-business)
+* Copyright 2013-2020 Start Bootstrap
+* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-small-business/blob/master/LICENSE)
+*/
+body {
+    padding-top: 56px;
+    font-family: 'Signika', sans-serif;
+    background-color: #F5F5F5;
+}
+
+.navbar{
+    background-color: #364273;
+}
+
+.card{
+    background-color: #D5EFFA;
+} 
+
+.py-5{
+    background-color: #364273;
+}

@@ -1,0 +1,24 @@
+/*!
+ * Start Bootstrap - Shop Item (https://startbootstrap.com/templates/shop-item)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-shop-item/blob/master/LICENSE)
+ */
+body {
+    padding-top: 56px;
+    font-family: 'Signika', sans-serif;
+    background-color: #F5F5F5;
+}
+
+.navbar{
+    background-color: #364273;
+}
+
+.py-5{
+    background-color: #364273;
+}
+
+
+.btn:hover{
+    box-shadow:  0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
